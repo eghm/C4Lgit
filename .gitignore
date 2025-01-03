@@ -1,0 +1,4 @@
+/.idea
+/.venv
+# dont add api keys to github
+*.key
